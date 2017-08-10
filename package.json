@@ -1,0 +1,26 @@
+{
+  "name": "dat-skelli",
+  "version": "1.0.0",
+  "description": "Skeleton Project with Babel, Gulp, Mocha, and Chai",
+  "main": "index.js",
+  "keywords": [],
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-nodemon": "^2.2.1",
+    "mocha": "^3.4.2",
+    "run-sequence": "^2.0.0"
+  },
+  "scripts": {
+    "build": "gulp copy && gulp compile",
+    "test": "mocha"
+  },
+  "author": "Philip Smith",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.5.2"
+  }
+}
