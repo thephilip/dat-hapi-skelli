@@ -25,7 +25,7 @@ gulp.task('watch', function() {
 gulp.task('start', function() {
 	nodemon({
 		watch: 'dist',
-		script: 'dist/index.js',
+		script: 'dist/server.js',
 		ext: 'js',
 		env: { 'NODE_ENV': 'development' }
 	});
