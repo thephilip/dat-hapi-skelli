@@ -1,3 +1,8 @@
 ## dat-hapi-skelli
-Skeleton Hapi project with a simple gulpfile, Mocah/Chai, and Babel configured (es2015 preset included).
-Just another something to use as a reference, really.
+Skeleton Hapi project with some perks.
+
+- Gulp integration
+- Linting (eslint)
+- Babel transpiling
+- Mocha testing framework
+- Chai BDD/TDD assertion library

@@ -1,6 +1,6 @@
 {
   "name": "dat-hapi-skelli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A Hapi Skeleton Project with Babel, Gulp, Mocha and Chai",
   "main": "./dist/server.js",
   "keywords": [],
@@ -21,7 +21,6 @@
   "author": "Philip Smith",
   "license": "MIT",
   "dependencies": {
-    "D": "^1.0.0",
     "eslint": "^4.4.1",
     "hapi": "^16.5.2"
   }
