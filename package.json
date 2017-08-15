@@ -1,6 +1,6 @@
 {
   "name": "dat-hapi-skelli",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "A Hapi Skeleton Project with Babel, Gulp, Mocha and Chai",
   "main": "./dist/server.js",
   "keywords": [],

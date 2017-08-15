@@ -11,6 +11,5 @@ export default [
 		handler: (request, reply) => {
 			reply('Successfully fetched document root.')
 		}
-
 	}
 ]
