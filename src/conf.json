@@ -1,0 +1,12 @@
+
+{
+	"host": "localhost",
+	"port": "8080",
+	"request_token_url": "",
+	"access_token_url": "",
+	"api_key": "",
+	"api_secret": "",
+	"oauth_ver": "",
+	"oauth_sig": "",
+	"oauth_cb": ""
+}
